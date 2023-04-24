@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Blog posts about MenuMaker by Qwenta ( OCR Learning )
+## Blog posts useful for MenuMaker by Qwenta ( OCR Learning )
 <!-- BLOG-POST-LIST:START -->
 - [MySQL for Developers](https://app.daily.dev/posts/klwxFxi3J?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
 - [JavaScript Optimization Techniques for Faster Website Load Times: An In-Depth Guide](https://app.daily.dev/posts/Xw4kibVmG?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - [4 React Tips to Instantly Improve Your Code](https://app.daily.dev/posts/PK0Abn9az?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
 <!-- BLOG-POST-LIST:END -->
 
-# Sources for libraries, APIs and plugins :
+## Sources for libraries, APIs and plugins :
 ### Libraries
 For modals :
 https://www.npmjs.com/package/react-modal
