@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there ! 👋
+
+Here's my GitHub profile I'm using to collaborate and share.
 
 <!--
 **AnthonyGodart/AnthonyGodart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Blog posts
+# Blog posts about MenuMaker by Qwenta ( OCR Learning )
 <!-- BLOG-POST-LIST:START -->
 - [MySQL for Developers](https://app.daily.dev/posts/klwxFxi3J?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
 - [JavaScript Optimization Techniques for Faster Website Load Times: An In-Depth Guide](https://app.daily.dev/posts/Xw4kibVmG?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
