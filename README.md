@@ -25,3 +25,21 @@ Here are some ideas to get you started:
 - [How JavaScript&#39;s Fetch API works under the hood](https://app.daily.dev/posts/3HDxAlvur?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
 - [4 React Tips to Instantly Improve Your Code](https://app.daily.dev/posts/PK0Abn9az?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
 <!-- BLOG-POST-LIST:END -->
+
+# Sources for libraries, APIs and plugins :
+### Libraries
+For modals :
+https://www.npmjs.com/package/react-modal
+
+For UI :
+https://blog.logrocket.com/top-10-react-ui-libraries-kits
+
+### APIs
+Instagram API :
+https://developers.facebook.com/docs/instagram-api/
+
+Deliveroo API :
+https://api-docs.deliveroo.com/docs
+
+### Plugins
+Not provided yet
