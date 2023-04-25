@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 For modals :
 https://www.npmjs.com/package/react-modal
 
+For PDF export:
+https://github.com/diegomura/react-pdf
+
 For UI :
 https://blog.logrocket.com/top-10-react-ui-libraries-kits
 
