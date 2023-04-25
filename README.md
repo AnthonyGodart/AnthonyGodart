@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [React.js Application Structure - Best Practices](https://app.daily.dev/posts/uJ1bbQI1N?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
 - [SQL Versus NoSQL Databases: Which to Use, When, and Why](https://app.daily.dev/posts/im6Siz5eT?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
-- [MySQL for Developers](https://app.daily.dev/posts/klwxFxi3J?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
 - [JavaScript Optimization Techniques for Faster Website Load Times: An In-Depth Guide](https://app.daily.dev/posts/Xw4kibVmG?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
 - [A Beginner&#39;s Guide to Portals in React: Everything You Need to Know](https://app.daily.dev/posts/Nacw9rLCQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
+- [How JavaScript&#39;s Fetch API works under the hood](https://app.daily.dev/posts/3HDxAlvur?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sources for libraries, APIs and plugins :
