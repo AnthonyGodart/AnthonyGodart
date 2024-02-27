@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 
 ## Blog posts (veil)
 <!-- BLOG-POST-LIST:START -->
-- [A practical guide to real-time change data capture with MongoDB](https://app.daily.dev/posts/owZGU34vj?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
-- [React Query - Enable Query](https://app.daily.dev/posts/2UATM9OMe?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
-- [React.js Application Structure - Best Practices](https://app.daily.dev/posts/uJ1bbQI1N?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
-- [SQL Versus NoSQL Databases: Which to Use, When, and Why](https://app.daily.dev/posts/im6Siz5eT?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
-- [JavaScript Optimization Techniques for Faster Website Load Times: An In-Depth Guide](https://app.daily.dev/posts/Xw4kibVmG?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
+- [No title](https://app.daily.dev/posts/FrkTldjv9?utm_source=rss&utm_medium=bookmarks&utm_campaign=ZQRnnu4Ykw0o4J10m9FWk)
+- [Docker basics for beginners](https://app.daily.dev/posts/vljVQYsYd?utm_source=rss&utm_medium=bookmarks&utm_campaign=ZQRnnu4Ykw0o4J10m9FWk)
+- [How to create a good README.md file](https://app.daily.dev/posts/jNkw9iQU0?utm_source=rss&utm_medium=bookmarks&utm_campaign=ZQRnnu4Ykw0o4J10m9FWk)
+- [Javascript Optimization Techniques](https://app.daily.dev/posts/Ohkg5QhcD?utm_source=rss&utm_medium=bookmarks&utm_campaign=ZQRnnu4Ykw0o4J10m9FWk)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sources for libraries, APIs and plugins :
