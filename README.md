@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Blog posts useful for MenuMaker by Qwenta ( OCR Learning )
+## Blog posts (veil)
 <!-- BLOG-POST-LIST:START -->
 - [A practical guide to real-time change data capture with MongoDB](https://app.daily.dev/posts/owZGU34vj?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
 - [React Query - Enable Query](https://app.daily.dev/posts/2UATM9OMe?utm_source=rss&utm_medium=bookmarks&utm_campaign=dxCKodVBquaHOKMLkIGxy)
