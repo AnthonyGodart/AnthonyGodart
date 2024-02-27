@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://api.daily.dev/rss/b/acbb1d05-046b-43ba-9df0-766af4845b6b"
+          feed_list: "https://api.daily.dev/rss/b/6589da3c-7683-4233-add3-35e3dbf4bb85"
