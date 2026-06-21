@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## Blog posts (veil)
 <!-- BLOG-POST-LIST:START -->
-- [Useful CSS Tools](https://app.daily.dev/posts/31peSJrjZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=ZQRnnu4Ykw0o4J10m9FWk)
-- [Async vs Defer in JavaScript: Which is Better?🤔](https://app.daily.dev/posts/rJWMQPqO5?utm_source=rss&utm_medium=bookmarks&utm_campaign=ZQRnnu4Ykw0o4J10m9FWk)
-- [No title](https://app.daily.dev/posts/FrkTldjv9?utm_source=rss&utm_medium=bookmarks&utm_campaign=ZQRnnu4Ykw0o4J10m9FWk)
-- [Docker basics for beginners](https://app.daily.dev/posts/vljVQYsYd?utm_source=rss&utm_medium=bookmarks&utm_campaign=ZQRnnu4Ykw0o4J10m9FWk)
-- [How to create a good README.md file](https://app.daily.dev/posts/jNkw9iQU0?utm_source=rss&utm_medium=bookmarks&utm_campaign=ZQRnnu4Ykw0o4J10m9FWk)
+- [Useful CSS Tools](https://daily.dev/posts/31peSJrjZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=ZQRnnu4Ykw0o4J10m9FWk)
+- [Async vs Defer in JavaScript: Which is Better?🤔](https://daily.dev/posts/rJWMQPqO5?utm_source=rss&utm_medium=bookmarks&utm_campaign=ZQRnnu4Ykw0o4J10m9FWk)
+- [No title](https://daily.dev/posts/FrkTldjv9?utm_source=rss&utm_medium=bookmarks&utm_campaign=ZQRnnu4Ykw0o4J10m9FWk)
+- [Docker basics for beginners](https://daily.dev/posts/vljVQYsYd?utm_source=rss&utm_medium=bookmarks&utm_campaign=ZQRnnu4Ykw0o4J10m9FWk)
+- [How to create a good README.md file](https://daily.dev/posts/jNkw9iQU0?utm_source=rss&utm_medium=bookmarks&utm_campaign=ZQRnnu4Ykw0o4J10m9FWk)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sources for libraries, APIs and plugins :
